@@ -187,6 +187,6 @@ header {
     text-align: center;
   }
   #nav-service {
-    width: 90vw;
+    width: fit-content;
   }
 }
